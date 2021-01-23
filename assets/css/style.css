@@ -1,0 +1,129 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Relaway', sans-serif;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    font-family: 'Relaway', sans-serif;
+    color: white;
+    font-weight: 300;
+}
+
+.iguana1 {
+    padding-right: 100px;
+    float: right;
+    width: 399px;
+    height: 237px;
+}
+
+.icons-section {
+    background-color: #1E1A13;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.desc-section {
+    width: 1280px;
+    height: 348px;
+    padding: 20px;
+}
+
+.texto1 {
+    width: 640px;
+    height: 348px;
+    float: left;
+    margin-left: 10%;
+    padding-right: 0.8%;
+    font-size: 16px;
+    font-weight: 100;
+    text-align: left;
+}
+
+.caja2 {
+    width: 399px;
+    height: 237px;
+    display: inline;
+}
+
+.icono1 {
+    color: white;
+    display: inline;
+    text-align: center;
+    margin-left: 30%;
+}
+
+.icono2 {
+    color: white;
+    display: inline;
+    text-align: center;
+    margin-left: 8%;
+}
+
+.icono3 {
+    color: white;
+    display: inline;
+    text-align: center;
+    margin-left: 6%;
+}
+
+h3 {
+    color: white;
+    font-family: 'Railway', sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.iguana2 {
+    width: 316px;
+    height: 202px;
+    display: inline;
+    float: left;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+.iguana3 {
+    width: 316px;
+    height: 202px;
+    display: inline;
+    float: center;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+.iguana4 {
+    width: 316px;
+    height: 202px;
+    margin-left: 2%;
+    display: inline;
+    margin-top: 3%;
+}
+
+footer {
+    background-color: #1E1A13;
+    padding: 5px;
+    margin-top: 30px;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+    font-family: 'Relaway', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.fotosfinales {
+    background-color: black;
+}
+
+.bloque1 {
+    display: inline;
+}
